@@ -1,0 +1,29 @@
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+Generative artificial intelligence (Generative AI or GenAI) is a subfield of artificial intelligence that uses generative models to generate text, images, videos, audio, software code or other forms of data. These models learn the underlying patterns and structures of their training data and use them to produce new data[1] in response to input, which often comes in the form of natural language prompts.[2][3]
+
+The prevalence of generative AI tools has increased significantly since the AI boom in the 2020s. This boom was made possible by improvements in deep neural networks, particularly large language models (LLMs), which are based on the transformer architecture. Major tools include LLM-based chatbots such as ChatGPT, Claude, Copilot, DeepSeek, Google Gemini and Grok; text-to-image models such as Stable Diffusion, Midjourney, and DALL-E; and text-to-video models such as Veo, LTX and Sora.[4][5][6] Technology companies developing generative AI include Alibaba, Anthropic, Baidu, DeepSeek, Google, Lightricks,[7] Meta AI, Microsoft, Mistral AI, OpenAI, Perplexity AI, xAI,[8] and Yandex.[9]
+
+Generative AI has been adopted in a variety of sectors, including software development, healthcare,[10] finance,[11] entertainment,[12] customer service,[13] sales and marketing,[14] art, writing,[15] and product design.[16]
+
+Generative AI has been used for cybercrime, and to deceive and manipulate people through fake news and deepfakes.[17][18] Generative AI may lead to mass replacement of human jobs.[19] The tools themselves have been described as violating intellectual property laws, since they are trained on copyrighted works.[20] Many generative AI systems use large-scale data centers whose environmental impacts include e-waste, consumption of fresh water for cooling, and high energy consumption that is estimated to be growing steadily.[21] Generative AI continues to evolve rapidly as new models and applications emerge.[19]
+
+
+
+History
+Main article: History of artificial intelligence
+Early history
+The origins of algorithmically generated media can be traced to the development of the Markov chain, which has been used to model natural language since the early 20th century. Russian mathematician Andrey Markov introduced the concept in 1906,[22][23] including an analysis of vowel and consonant patterns in Eugeny Onegin. Once trained on a text corpus, a Markov chain can generate probabilistic text.[24][25]
+
+By the early 1970s, artists began using computers to extend generative techniques beyond Markov models. Harold Cohen developed and exhibited works produced by AARON, a pioneering computer program designed to autonomously create paintings.[26] The terms generative AI planning or generative planning were used in the 1980s and 1990s to refer to AI planning systems, especially computer-aided process planning, used to generate sequences of actions to reach a specified goal.[27][28] Generative AI planning systems used symbolic AI methods such as state space search and constraint satisfaction and were a "relatively mature" technology by the early 1990s. They were used to generate crisis action plans for military use,[29] process plans for manufacturing[27] and decision plans such as in prototype autonomous spacecraft.[30]
+
+
+Generative neural networks (Late 2000s-)
+See also: Machine learning and deep learning
+
+Above: An image classifier, an example of a neural network trained with a discriminative objective. Below: A text-to-image model, an example of a network trained with a generative objective.
+Machine learning uses both discriminative models and generative models to predict data. Beginning in the late 2000s, the introduction of deep learning technology led to improvements in image classification, speech recognition, natural language processing and other tasks. Neural networks in this era were typically trained as discriminative models due to the difficulty of generative modeling.[31]
+
+In 2014, advancements such as the variational autoencoder and generative adversarial network produced the first practical deep neural networks capable of learning generative models, as opposed to discriminative ones, for complex data such as images. These deep generative models were the first to output not only class labels for images but also entire images, such as DeepDream.[citation needed]
+
+In 2017, the Transformer network enabled advancements in generative models compared to older long short-term memory (LSTM) models, leading to the first generative pre-trained transformer (GPT), known as GPT-1, in 2018.[32]
