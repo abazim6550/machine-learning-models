@@ -1,0 +1,6 @@
+fastapi
+mcp
+pypdf
+pathlib
+ollama
+pandas
